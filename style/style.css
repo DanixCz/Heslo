@@ -1,0 +1,29 @@
+.okenko{
+    background-color: rgb(173, 192, 1);
+    border: 1px solid black;
+    width: 500px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.odsazeni{
+    display: flex;
+    justify-content: center;
+    margin: 16px 0;
+
+}
+.buttons a {
+    background-color: rgb(130, 130, 255);
+    color: aliceblue;
+    padding: 5px;
+    margin: 10px;    
+}
+
+
+
+body{
+    background-color: rgb(43, 43, 43);
+}
