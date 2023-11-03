@@ -1,10 +1,10 @@
 .okenko{
-    background-color: rgb(173, 192, 1);
+    background-color: #ffa31a;
     border: 1px solid black;
     width: 500px;
 }
 
-.main{
+main{
     display: flex;
     justify-content: center;
 }
@@ -16,14 +16,16 @@
 
 }
 .buttons a {
-    background-color: rgb(130, 130, 255);
-    color: aliceblue;
+    background-color: rgb(128, 128, 128);
+    color: rgb(255, 255, 255);
     padding: 5px;
     margin: 10px;    
 }
 
-
+.odsazeni label{
+    width: 150px;
+}
 
 body{
-    background-color: rgb(43, 43, 43);
+    background-color: rgb(41, 41, 41);
 }
