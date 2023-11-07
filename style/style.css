@@ -2,6 +2,7 @@
     background-color: #ffa31a;
     border: 1px solid black;
     width: 500px;
+    border-radius: 10px;
 }
 
 main{
@@ -19,7 +20,9 @@ main{
     background-color: rgb(128, 128, 128);
     color: rgb(255, 255, 255);
     padding: 5px;
-    margin: 10px;    
+    margin: 10px;
+    border-radius: 5px;
+    text-decoration: none;  
 }
 
 .odsazeni label{
